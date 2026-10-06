@@ -20,8 +20,8 @@ Desarrollador de Software orientado al desarrollo Web y Móvil. Me enfoco en con
 
 ---
 
-### 📫 Contacto
+### 📫 Contacto y Redes
 
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
-- **Email:** tu-email@dominio.com
-- **Sitio Web:** https://rjaquedev.github.io
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjaquedev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@ejemplo.com)
+[![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](https://rjaquedev.github.io)
