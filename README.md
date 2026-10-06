@@ -22,6 +22,6 @@ Desarrollador de Software orientado al desarrollo Web y Móvil. Me enfoco en con
 
 ### 📫 Contacto y Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rjaquedev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-marcelo-jaque-astudillo-098237129)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@ejemplo.com)
 [![Website](https://img.shields.io/badge/Website-12100E?style=for-the-badge&logo=githubpages&logoColor=white)](https://rjaquedev.github.io)
