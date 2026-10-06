@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Raúl 👋
 
-<!--
-**RJaqueDev/rjaquedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software orientado al desarrollo Web y Móvil. Me enfoco en construir aplicaciones escalables, optimizar procesos backend e integrar soluciones modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Frontend / Mobile:** React Native, Expo, TypeScript, AngularJS, HTML5/CSS3
+- **Backend / APIs:** Node.js, Express, PHP (Laravel, Lumen), Magento
+- **Bases de Datos:** MySQL, Oracle SQL
+- **DevOps & Herramientas:** Docker, Docker Compose, pnpm, Git, GitHub Actions, DBeaver
+
+---
+
+### 🚀 Proyectos Destacados
+
+- **[MasWord](https://github.com/rjaquedev/masword):** Aplicación móvil de gestión de contraseñas desarrollada con React Native, Expo y autenticación biométrica.
+- **[Habit Tracker / Fitness App]:** App móvil para seguimiento de hábitos y rendimiento personal.
+
+---
+
+### 📫 Contacto
+
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com)
+- **Email:** tu-email@dominio.com
+- **Sitio Web:** https://rjaquedev.github.io
